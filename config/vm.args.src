@@ -1,0 +1,6 @@
+-name ${NODE_NAME}
+
+-setcookie ss7track_cookie
+
++K true
++A30
